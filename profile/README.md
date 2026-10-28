@@ -42,7 +42,7 @@ Projetos que representam hoje a maior evolução técnica e de produto da TSCBr.
 | **Plataforma completa para gestão condominial.** Centraliza administração, unidades, moradores, cobranças, documentos, avisos, ocorrências, relatórios e comunicação. | **Portal institucional da Technology Solution Company.** Responsável pela presença digital da empresa, serviços, posicionamento e identidade da TSCBr. |
 | `React` `Vite` `Node.js` `Supabase` `PostgreSQL` `Vercel` `PWA` | `React` `Vite` `JavaScript` `CSS` `Vercel` |
 | 🟢 **Em produção · Evolução contínua** | 🟢 **Em produção · Em evolução** |
-| <a href="https://webcond.vercel.app"><img src="https://img.shields.io/badge/VER%20PROJETO-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver WebCond"/></a> | <a href="https://www.tscbr.com.br/"><img src="https://img.shields.io/badge/VER%20PROJETO-SITE%20TSCBR-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Site TSCBr"/></a> |
+| <a href="https://webcond.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-WEBCOND-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver WebCond"/></a> | <a href="https://www.tscbr.com.br/"><img src="https://img.shields.io/badge/VER%20PROJETO-SITE%20TSCBR-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Site TSCBr"/></a> |
 | 🔒 Repositório privado | 🔒 Repositório privado |
 
 ---
@@ -69,6 +69,15 @@ A versão atual foi reescrita em C# e WPF e trabalha com Office Deployment Tool,
 
 ---
 
+## 🌐 Plataformas web
+
+| Projeto | Objetivo | Status | Acesso |
+|---|---|---|---|
+| **Hub Food** | Plataforma de gestão de estoque de fardas | 🟢 Em produção | <a href="https://hubfood.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-HUB%20FOOD-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Hub Food"/></a> |
+| **Planejamento Financeiro** | PWA para planejamento financeiro pessoal e familiar | 🟡 Em desenvolvimento · demo pública | <a href="https://financeiro.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-FINANCEIRO-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Planejamento Financeiro"/></a> |
+
+---
+
 ## 🛠️ Ferramentas em publicação
 
 | Projeto | Objetivo | Status |
@@ -84,11 +93,11 @@ Os botões de repositório serão adicionados quando o conteúdo público estive
 
 Além de produtos próprios e soluções corporativas, a TSCBr participa de projetos voluntários e sociais, criando tecnologia para necessidades reais de organizações e comunidades.
 
-| Projeto | Objetivo | Status |
-|---|---|---|
-| **Evangelismo Solidário — IEADPE** | Cadastro e consolidação de atendimentos de ação social | ✅ Projeto concluído · publicação pública em organização |
-| **IEADPE — Escala Local** | Organização e gestão das escalas internas das congregações | 🟢 Em uso · publicação pública em organização |
-| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Em desenvolvimento · publicação pública em organização |
+| Projeto | Objetivo | Status | Acesso |
+|---|---|---|---|
+| **Evangelismo Solidário — IEADPE** | Cadastro e consolidação de atendimentos de ação social | ✅ Projeto concluído · demo pública | — |
+| **IEADPE — Escala Local** | Organização e gestão das escalas internas das congregações | 🟢 Em uso · demo pública | <a href="https://escala.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-ESCALA%20LOCAL-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Escala Local"/></a> |
+| **IEADPE — Eu Vou** | Plataforma de participação e engajamento da juventude | 🟡 Piloto · demo pública | <a href="https://euvou.tscbr.com.br"><img src="https://img.shields.io/badge/VER%20PROJETO-EU%20VOU-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver Eu Vou"/></a> |
 
 ---
 
